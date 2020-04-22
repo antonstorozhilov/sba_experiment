@@ -1,0 +1,653 @@
+,desc,InitialInterestRate,InitialInterestRate,InitialInterestRate
+,,mean,std,count
+800,Private Households,5.536031746031746,0.8624282735301103,126
+208,Conveyor and Conveying Equipment Manufacturing,5.608472222222222,1.3252357321233084,72
+722,Packaging Machinery Manufacturing,5.6737,1.5011140642530485,60
+918,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",5.693318007662837,1.234349459004097,261
+299,Fabricated Pipe and Pipe Fitting Manufacturing,5.696818181818181,1.294019568382427,66
+1,Adhesive Manufacturing,5.6975,0.9075130312897907,52
+1009,Veterinary Services,5.735391783567152,1.0720809467744437,4990
+433,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",5.780431034482758,1.3675064657093234,58
+413,Hotels (except Casino Hotels) and Motels,5.785692240341466,0.8646252621671785,9137
+473,Lessors of Miniwarehouses and Self-Storage Units,5.791015625000001,0.9699807703266256,1152
+475,Lessors of Nonresidential Buildings (except Miniwarehouses),5.798759226713529,0.9298923617953941,2845
+192,Concrete Block and Brick Manufacturing,5.805890410958904,1.0860233724930677,73
+776,Polystyrene Foam Product Manufacturing,5.807843137254902,0.9898854756495626,51
+525,Metal Tank (Heavy Gauge) Manufacturing,5.808839285714286,1.450635907916822,56
+579,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",5.822631578947369,1.4124086902418427,57
+434,Industrial Valve Manufacturing,5.829574626865673,1.0964362118105226,134
+74,Analytical Laboratory Instrument Manufacturing,5.835337662337663,1.3942196799869397,77
+851,Rolled Steel Shape Manufacturing,5.8452702702702695,1.28174348615841,74
+916,Soybean Farming,5.847666666666667,1.2424147710313318,60
+621,Optical Instrument and Lens Manufacturing,5.8524637681159435,1.2821654543561902,69
+54,All Other Plastics Product Manufacturing,5.862384531590413,1.2535507349976023,918
+16,Aircraft Engine and Engine Parts Manufacturing,5.878970588235294,1.2281355116366164,68
+745,Petroleum Bulk Stations and Terminals,5.880618556701032,0.8302093290663074,97
+476,Lessors of Other Real Estate Property,5.888735059760954,1.1094503069352764,502
+117,Boat Building,5.901814814814815,1.2360712930773565,135
+364,Gasoline Stations with Convenience Stores,5.911878418174166,0.9292730206601655,7131
+211,Corn Farming,5.913921568627451,1.262212467742848,51
+520,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",5.916940298507463,1.1613739105120673,67
+796,Printed Circuit Assembly (Electronic Assembly) Manufacturing,5.91828125,1.1547769037440243,64
+811,RV (Recreational Vehicle) Parks and Campgrounds,5.93640350877193,0.9574472075378563,513
+382,Grain and Field Bean Merchant Wholesalers,5.941982758620689,1.5582477448989809,116
+825,Refrigerated Warehousing and Storage,5.953492063492063,1.1949087679173138,63
+429,Industrial Mold Manufacturing,5.962339901477831,1.282469989896118,203
+600,Offices of Dentists,5.96580335051543,1.213087581309327,11640
+359,Funeral Homes and Funeral Services,5.972044605809123,1.0761874445267838,1928
+748,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),5.972502325581396,1.380509620361428,215
+465,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",5.977169811320755,0.9667319598254942,53
+865,Sawmills,5.991541218637993,1.2020705118175234,279
+766,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,5.992031250000001,1.3295496070993722,64
+197,Construction Machinery Manufacturing,5.993265486725663,1.2661512831192911,113
+627,Other Aircraft Parts and Auxiliary Equipment Manufacturing,5.995308056872038,1.2350162038194812,211
+765,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,5.9961363636363645,1.3983947436706154,132
+455,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,5.998068322981367,1.1896265176738436,161
+1033,Wood Office Furniture Manufacturing,6.002941176470589,1.1406855574872454,102
+37,All Other Miscellaneous Electrical Equipment and Component Manufacturing,6.0039584569732956,1.2153740794631687,337
+57,All Other Rubber Product Manufacturing,6.013301886792452,1.2046961456045675,106
+237,Cutting Tool and Machine Tool Accessory Manufacturing,6.018578680203044,1.2516702148273737,197
+792,Precision Turned Product Manufacturing,6.0190767123287685,1.1933249074574754,365
+657,Other Electronic Component Manufacturing,6.023205741626793,1.2793086176515984,209
+357,Fuel Dealers,6.023539094650208,1.3536350759786908,243
+381,Golf Courses and Country Clubs,6.024025000000002,1.2658363949666067,400
+521,Metal Heat Treating,6.024061855670102,0.9754708031513225,97
+680,Other Measuring and Controlling Device Manufacturing,6.027674242424243,1.379948652082721,132
+441,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",6.0281519999999995,1.2514051911815487,125
+213,Corrugated and Solid Fiber Box Manufacturing,6.031203703703704,1.3937368029416477,108
+169,Coin-Operated Laundries and Drycleaners,6.031851274787532,1.1778715823076453,2118
+780,Postharvest Crop Activities (except Cotton Ginning),6.032395833333333,1.3554635989145762,96
+491,Machine Shops,6.035936445664959,1.3485492064464315,2549
+24,All Other Converted Paper Product Manufacturing,6.036481481481482,1.3158589212329868,108
+453,Iron and Steel Forging,6.041379310344826,1.0137739443606921,87
+125,Bowling Centers,6.041525373134327,0.9712628158751514,670
+566,New Car Dealers,6.04170774647887,1.5072515448828976,568
+406,Home Centers,6.045069767441861,1.2681853323413865,215
+817,Ready-Mix Concrete Manufacturing,6.0482885906040265,1.2145739899090302,149
+38,All Other Miscellaneous Fabricated Metal Product Manufacturing,6.050913173652686,1.3141553263100307,1336
+421,Ice Manufacturing,6.052542372881356,0.9068676120088095,118
+400,Heating Equipment (except Warm Air Furnaces) Manufacturing,6.060000000000001,1.5134067529914093,75
+962,Telephone Answering Services,6.061494252873561,1.4866769004601958,87
+348,Freestanding Ambulatory Surgical and Emergency Centers,6.069655581947748,1.185807626190631,421
+439,Institutional Furniture Manufacturing,6.074430379746835,1.3648600443282455,79
+40,All Other Miscellaneous General Purpose Machinery Manufacturing,6.076390134529149,1.3310197899208263,446
+762,Plastics Bag and Pouch Manufacturing,6.0825316455696194,1.4103713534934517,79
+874,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",6.082771428571428,1.5426702726721404,70
+764,Plastics Material and Resin Manufacturing,6.083065476190476,1.3805055185348452,168
+153,Cheese Manufacturing,6.084939759036144,1.2823276982094176,83
+21,All Other Basic Organic Chemical Manufacturing,6.086981132075472,2.143947280588972,53
+690,Other Nonhazardous Waste Treatment and Disposal,6.087496732026145,1.2698127976625813,153
+154,Chicken Egg Production,6.091287128712871,1.0017374423992722,505
+842,Residential Intellectual and Developmental Disability Facilities,6.0913815789473675,1.5997714237978315,152
+103,Bare Printed Circuit Board Manufacturing,6.09530303030303,1.0994225333146062,66
+105,Bed-and-Breakfast Inns,6.0966649395509505,1.132035907489142,579
+405,Hog and Pig Farming,6.099402985074628,1.5355582151491902,67
+793,Prefabricated Metal Building and Component Manufacturing,6.101830985915493,1.3595950688986376,142
+952,Surgical Appliance and Supplies Manufacturing,6.102441860465118,1.301069191920532,215
+593,Office Machinery and Equipment Rental and Leasing,6.105140186915887,1.33895859595122,107
+64,All Other Transportation Equipment Manufacturing,6.106424242424241,1.3005542681052455,165
+151,Cemeteries and Crematories,6.110335570469799,0.9982121965465565,149
+97,Automotive Oil Change and Lubrication Shops,6.110578729281769,1.0801950034702235,724
+142,Car Washes,6.112073911452616,1.2911411042370513,2733
+674,Other Industrial Machinery Manufacturing,6.112361809045227,1.5459641004066704,199
+910,"Soil Preparation, Planting, and Cultivating",6.118125,1.2482604149500829,304
+683,Other Millwork (including Flooring),6.118231343283584,1.382421039806094,268
+394,Hardware Stores,6.120397196261679,1.2153176895852056,1498
+646,Other Communications Equipment Manufacturing,6.124477611940298,1.5466457191457217,67
+119,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",6.130000000000001,1.441275099709795,93
+204,Continuing Care Retirement Communities,6.132932330827068,1.2479814838701928,266
+696,Other Poultry Production,6.133805157593128,0.9103953744332265,349
+824,Recyclable Material Merchant Wholesalers,6.134364981504315,1.39539316905798,811
+649,Other Concrete Product Manufacturing,6.134858757062148,1.37439825979517,177
+784,Poultry Processing,6.137450980392157,1.4230865653743696,51
+536,Motion Picture Theaters (except Drive-Ins),6.138552631578949,1.1429527845463676,228
+531,Miscellaneous Intermediation,6.138565789473684,1.370440146673336,76
+754,Photographic Equipment and Supplies Merchant Wholesalers,6.138676470588236,1.0993511036017303,68
+628,Other Airport Operations,6.140675675675676,1.4728344503135302,74
+495,Manufactured (Mobile) Home Dealers,6.141111111111111,1.3445623074971786,54
+996,Truss Manufacturing,6.141428571428572,1.0288712766406225,56
+239,Dairy Cattle and Milk Production,6.142489795918367,1.4968198272278255,245
+890,Sheet Metal Work Manufacturing,6.142686419753087,1.3446966763638672,405
+339,Food Product Machinery Manufacturing,6.143466666666667,1.5272971120474461,75
+901,Small Arms Ammunition Manufacturing,6.14457627118644,1.2564349154128975,59
+630,Other Animal Food Manufacturing,6.14798611111111,1.38867174040626,144
+591,Office Equipment Merchant Wholesalers,6.148478260869566,1.402809980053143,230
+41,All Other Miscellaneous Manufacturing,6.150812368236112,1.4172288655880234,1423
+540,Motor Vehicle Body Manufacturing,6.151911764705882,1.2716639203919762,68
+35,All Other Miscellaneous Chemical Product and Preparation Manufacturing,6.152896226415093,1.5594584333331079,212
+392,Hardware Manufacturing,6.153691780821918,1.426496168287485,146
+968,Testing Laboratories,6.154087179487178,1.2283729274506063,585
+661,Other Fabricated Wire Product Manufacturing,6.154655555555554,1.1750686822968508,90
+118,Boat Dealers,6.157598784194531,1.2363274230848744,329
+363,"Gasket, Packing, and Sealing Device Manufacturing",6.157966101694915,1.1911220147421955,59
+604,Offices of Optometrists,6.158091536338537,1.308846092999758,2174
+750,Pharmacies and Drug Stores,6.161306472243554,1.2783876418587934,3909
+1014,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,6.165432692307693,1.462570962905644,208
+284,"Electroplating, Plating, Polishing, Anodizing, and Coloring",6.166132812500002,1.2888286542200738,256
+519,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",6.166853233830845,1.3998305493646919,402
+309,Farm and Garden Machinery and Equipment Merchant Wholesalers,6.1684978540772555,1.3846186675475807,233
+605,Offices of Other Holding Companies,6.168917112299461,1.1413557697366796,374
+524,Metal Service Centers and Other Metal Merchant Wholesalers,6.17127400468384,1.4982071546572988,427
+718,Outdoor Power Equipment Stores,6.177845070422535,1.3675449426831643,284
+771,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,6.178848684210528,1.4279731268323501,304
+180,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",6.181559633027525,1.5104439954995372,109
+497,Marinas,6.183223443223443,1.2078151813872735,273
+130,Broilers and Other Meat Type Chicken Production,6.183817120622567,0.8881494603414142,3598
+725,Paint and Coating Manufacturing,6.185743243243243,1.4453723203769533,148
+639,Other Chemical and Allied Products Merchant Wholesalers,6.187815217391305,1.5663253995627737,368
+88,Assisted Living Facilities for the Elderly,6.189456317689531,1.1949413908062054,1385
+682,Other Metal Valve and Pipe Fitting Manufacturing,6.191940298507463,1.5505885869819556,67
+108,"Beer, Wine, and Liquor Stores",6.192134332833584,1.2744727846988462,6670
+863,Saw Blade and Handtool Manufacturing,6.19296875,1.5426195816244235,64
+158,Chocolate and Confectionery Manufacturing from Cacao Beans,6.196746666666667,1.1943924283052003,75
+305,Farm Machinery and Equipment Manufacturing,6.1995275590551175,1.3685126083288763,127
+814,Radio Stations,6.200683060109291,1.2588077378913753,183
+623,Ornamental and Architectural Metal Work Manufacturing,6.204722222222223,1.392938642588217,216
+836,Repossession Services,6.205138888888888,1.270578212674329,72
+749,Pharmaceutical Preparation Manufacturing,6.209245810055865,1.1986515672568918,179
+873,Seafood Product Preparation and Packaging,6.213345454545453,1.8352083363232734,55
+508,Meat and Meat Product Merchant Wholesalers,6.213437641723355,1.4954749052141718,441
+612,Oil and Gas Field Machinery and Equipment Manufacturing,6.2143428571428565,1.4756969528677955,105
+199,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,6.214483739837397,1.51297315545329,246
+715,Other Warehousing and Storage,6.216074074074074,1.4061592106925043,135
+507,Meat Processed from Carcasses,6.218922155688624,1.3358423315899275,167
+912,Solid Waste Collection,6.2216569416498935,1.372276836512701,994
+277,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",6.224397622192865,1.5237236897458644,757
+785,Poultry and Poultry Product Merchant Wholesalers,6.227166666666666,1.4572757997065133,66
+263,Drilling Oil and Gas Wells,6.235031746031747,1.2654149987194434,126
+75,Animal (except Poultry) Slaughtering,6.235726495726495,1.2133221110818844,117
+552,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",6.236333126550868,1.366425500205771,403
+254,Direct Property and Casualty Insurance Carriers,6.237075630252098,1.30450398495902,119
+152,Charter Bus Industry,6.237083333333332,1.3509127545871005,192
+124,Bottled Water Manufacturing,6.237943925233647,1.260930128626796,107
+551,Motor and Generator Manufacturing,6.241551724137931,1.5608373840291434,58
+235,Cut Stone and Stone Product Manufacturing,6.244179104477611,1.371528971062964,402
+854,"Roofing, Siding, and Insulation Material Merchant Wholesalers",6.244246031746033,1.4473002546065306,126
+892,Shellfish Fishing,6.245958333333333,1.4276935763073013,120
+1031,Wood Container and Pallet Manufacturing,6.2475000000000005,1.42859429038677,332
+587,Nursery and Tree Production,6.247536679536678,1.2773469392090628,259
+194,Confectionery Manufacturing from Purchased Chocolate,6.250434782608696,1.2909281143500737,69
+484,Linen Supply,6.25111111111111,1.428809978812982,126
+589,Nursing Care Facilities (Skilled Nursing Facilities),6.2513304347826075,1.3795194381267963,575
+953,Surgical and Medical Instrument Manufacturing,6.253875968992246,1.4513516094606704,258
+662,Other Farm Product Raw Material Merchant Wholesalers,6.254358974358973,1.9175691259470014,117
+230,Custom Architectural Woodwork and Millwork Manufacturing,6.25536332179931,1.5727664794205545,289
+990,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,6.255493464052286,1.5964025936275439,306
+883,Semiconductor and Related Device Manufacturing,6.261881818181817,1.5090202102951538,110
+308,Farm Supplies Merchant Wholesalers,6.2632130177514815,1.48079191326595,338
+428,Industrial Machinery and Equipment Merchant Wholesalers,6.263558319039438,1.5309259762198295,1166
+371,General Rental Centers,6.264267676767673,1.245472903552786,396
+300,Fabricated Structural Metal Manufacturing,6.265732323232322,1.3756227536169923,594
+607,Offices of Physicians (except Mental Health Specialists),6.266970858551941,1.4209101650585079,8922
+769,Plate Work Manufacturing,6.267320261437908,1.5039561892310054,153
+797,Printing Ink Manufacturing,6.27,1.3348040907879755,52
+128,"Brick, Stone, and Related Construction Material Merchant Wholesalers",6.270225225225227,1.5023575931431974,333
+176,Commercial Printing (except Screen and Books),6.2712980588603555,1.429423055205971,1597
+327,Floor Covering Stores,6.272487236403991,1.3455142458072458,901
+878,Securities Brokerage,6.274251968503937,1.1995452310791892,127
+572,Newspaper Publishers,6.276029411764707,1.4259555327557363,204
+822,Recreational Vehicle Dealers,6.276884735202491,1.2775573430564708,321
+285,Elementary and Secondary Schools,6.2770139720558875,1.3184688383895888,501
+402,"Highway, Street, and Bridge Construction",6.280081595648226,1.43973131651483,1103
+684,Other Miscellaneous Durable Goods Merchant Wholesalers,6.2811832524271765,1.5025790279797022,2472
+170,Collection Agencies,6.288523206751054,1.4436106791276406,237
+685,Other Miscellaneous Nondurable Goods Merchant Wholesalers,6.288533651551311,1.4861614503264031,2095
+432,Industrial Supplies Merchant Wholesalers,6.291303308823525,1.5035114803533791,544
+650,Other Construction Material Merchant Wholesalers,6.291356459330144,1.4343957525000939,418
+1024,Wineries,6.292930780559644,1.3441872388025826,679
+490,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",6.295865821678319,1.5183350455170899,572
+942,Supermarkets and Other Grocery (except Convenience) Stores,6.298395511921493,1.405728131538057,4278
+315,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",6.299280575539568,1.391236880760452,139
+155,Child Day Care Services,6.299566007047998,1.3305867324261182,7378
+369,General Line Grocery Merchant Wholesalers,6.300601208459213,1.6107179936120375,662
+372,General Warehousing and Storage,6.301890173410406,1.3350163434125133,346
+66,All Other Traveler Accommodation,6.309436241610739,1.320396768390081,149
+613,Oil and Gas Pipeline and Related Structures Construction,6.309506172839505,1.3891137540535659,162
+672,Other Heavy and Civil Engineering Construction,6.3128820224719036,1.4077506939926725,890
+588,"Nursery, Garden Center, and Farm Supply Stores",6.312918472652212,1.3674377229686419,969
+488,Logging,6.314143033292228,1.3683050835754584,811
+637,Other Building Material Dealers,6.3152409177820195,1.4519801664128558,1569
+583,Nonscheduled Chartered Passenger Air Transportation,6.317727272727272,1.2348633527641837,121
+200,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",6.318667763157896,1.443311403248147,304
+884,Septic Tank and Related Services,6.319950236966825,1.3713135163003636,422
+965,Television Broadcasting,6.326666666666667,1.8470065872468713,75
+477,Lessors of Residential Buildings and Dwellings,6.32754518072289,1.4861720372273608,332
+723,Packaging and Labeling Services,6.331697247706423,1.5069098342471205,327
+340,Food Service Contractors,6.332665794066308,1.5164818458015006,1146
+950,Support Activities for Rail Transportation,6.333728813559323,1.7717475284306992,59
+253,Direct Mail Advertising,6.336140350877194,1.2934221989049601,228
+717,Outdoor Advertising,6.336447368421055,1.359682559429204,228
+850,Roasted Nuts and Peanut Butter Manufacturing,6.342769230769231,1.1956882271472196,65
+815,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,6.34366972477064,1.449686211609422,109
+17,Aircraft Manufacturing,6.346666666666667,1.6774989319420348,51
+704,Other Snack Food Manufacturing,6.346852791878172,1.4504092468407832,197
+799,Printing and Writing Paper Merchant Wholesalers,6.348782608695652,1.4592963624223492,115
+427,Industrial Launderers,6.349599999999999,1.4707657210616516,65
+257,Distilleries,6.350277108433734,1.2699771434024179,415
+823,Recreational and Vacation Camps (except Campgrounds),6.35168656716418,1.2343443872901696,134
+86,Asphalt Paving Mixture and Block Manufacturing,6.35578125,1.3729668850464714,96
+681,Other Metal Container Manufacturing,6.356451612903226,1.3356181067687365,62
+643,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,6.356774074074068,1.4580021168116946,810
+758,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",6.362753564154782,1.5369506645523412,491
+530,Miscellaneous Financial Investment Activities,6.363140703517587,1.4395758390109736,199
+1016,Water and Sewer Line and Related Structures Construction,6.36454350927246,1.4767939472882123,701
+898,Sign Manufacturing,6.365227686703092,1.3972249339401281,1098
+985,Tortilla Manufacturing,6.368225806451613,1.2898221051484842,62
+324,Flat Glass Manufacturing,6.369903846153846,1.397537221218383,52
+173,Commercial Bakeries,6.370628755364808,1.412152989626484,932
+933,Stationery and Office Supplies Merchant Wholesalers,6.377054187192116,1.4550180877442978,203
+548,Motor Vehicle Supplies and New Parts Merchant Wholesalers,6.378046307884853,1.6382137122566838,799
+107,Beer and Ale Merchant Wholesalers,6.380281690140845,1.4421347892846408,213
+893,Ship Building and Repairing,6.383561643835619,1.4622170855160455,73
+1032,Wood Kitchen Cabinet and Countertop Manufacturing,6.3860614152202935,1.4365399985194012,749
+726,Paint and Wallpaper Stores,6.388121827411166,1.2630119795918653,197
+172,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",6.389719101123595,1.5564985397648445,89
+943,Support Activites for Printing,6.390326086956521,1.4104402329558539,92
+1035,Wood Window and Door Manufacturing,6.392483660130718,1.4725091729880275,153
+905,Soap and Other Detergent Manufacturing,6.393916666666667,1.2691691822468998,120
+940,Structural Steel and Precast Concrete Contractors,6.393990384615383,1.5114134260637087,416
+248,Diagnostic Imaging Centers,6.395147991543341,1.2466272648125971,473
+205,Convenience Stores,6.395505885299316,1.47670572190472,3993
+55,"All Other Professional, Scientific, and Technical Services",6.395849954254373,1.4891994908916366,4372
+279,Electromedical and Electrotherapeutic Apparatus Manufacturing,6.398876404494382,1.7009058002631252,89
+988,Toy and Hobby Goods and Supplies Merchant Wholesalers,6.399567088607596,1.4722458111184131,395
+58,All Other Specialty Food Stores,6.401277683854603,1.3376522686336858,2366
+398,Hazardous Waste Treatment and Disposal,6.402444444444444,1.5172400930637184,81
+974,Timber Tract Operations,6.403658536585365,1.4608035267248154,82
+642,Other Commercial Equipment Merchant Wholesalers,6.405742500000002,1.495071869822178,400
+245,Dental Equipment and Supplies Manufacturing,6.406761904761906,1.4206708431894577,105
+609,Offices of Podiatrists,6.4070538720538694,1.4525749041160019,594
+896,"Showcase, Partition, Shelving, and Locker Manufacturing",6.408367346938776,1.4793490445543327,98
+45,All Other Miscellaneous Textile Product Mills,6.4092977777777795,1.479167211173609,225
+127,Breweries,6.414956875220923,1.2375679614642756,2829
+500,Marketing Research and Public Opinion Polling,6.414964143426295,1.5801995705318872,251
+356,Fruit and Vegetable Markets,6.416250000000002,1.4173220987082928,344
+740,Perishable Prepared Food Manufacturing,6.416559405940596,1.4791727111425166,202
+801,Private Mail Centers,6.416979166666667,1.2440743217932926,480
+368,"General Freight Trucking, Long-Distance, Truckload",6.4174130643612175,1.7193338777817029,9369
+595,Office Supplies and Stationery Stores,6.4180839694656475,1.4076823719290021,524
+280,Electronic Computer Manufacturing,6.418760869565217,1.4142864652977878,92
+598,Offices of Certified Public Accountants,6.419659399096011,1.4331173203569123,3761
+420,Ice Cream and Frozen Dessert Manufacturing,6.421937086092715,1.3804238741925072,302
+332,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",6.422000000000001,1.5703490023430742,370
+15,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,6.422461538461538,1.7115454105304047,130
+926,Sporting Goods Stores,6.424119532554259,1.4598609563103275,2995
+978,Tire and Tube Merchant Wholesalers,6.426641221374046,1.6094211146042168,131
+322,Fish and Seafood Merchant Wholesalers,6.428241895261841,1.8343183240213239,401
+259,Dog and Cat Food Manufacturing,6.430487804878048,1.4163170049309644,123
+240,Dairy Product (except Dried or Canned) Merchant Wholesalers,6.430596026490067,1.7573932330919682,151
+994,Truck Trailer Manufacturing,6.431818181818182,1.7490211025419002,88
+638,Other Business Service Centers (including Copy Shops),6.434004854368933,1.223649260759951,412
+47,All Other Miscellaneous Wood Product Manufacturing,6.434169921875001,1.3486537624868928,512
+721,Packaged Frozen Food Merchant Wholesalers,6.436318965517243,1.5983452649951002,232
+156,Child and Youth Services,6.437959866220738,1.361901620980573,299
+481,Limited-Service Restaurants,6.438986390195287,1.3629911086923598,14034
+342,Footwear Merchant Wholesalers,6.43921768707483,1.550605791989305,147
+100,Baked Goods Stores,6.440895430579962,1.303010150258451,1138
+562,Natural Gas Distribution,6.44377049180328,1.6995501011879837,61
+73,Amusement and Theme Parks,6.4447530864197535,1.2282574083211586,243
+94,"Automotive Body, Paint, and Interior Repair and Maintenance",6.445197394136814,1.4700279780443044,3070
+492,Machine Tool Manufacturing,6.447595121951221,1.4240866412338806,205
+599,Offices of Chiropractors,6.4491123689029655,1.295507277383166,6007
+177,Commercial Screen Printing,6.4507517241379215,1.5433177194825176,1015
+362,Furniture Stores,6.454712267180467,1.5472632550395848,1557
+437,Inland Water Freight Transportation,6.456470588235295,1.3900515436909695,51
+352,"Frozen Fruit, Juice, and Vegetable Manufacturing",6.458947368421053,1.6107947064930912,57
+899,Site Preparation Contractors,6.45949386240369,1.5948706431092978,3503
+644,Other Commercial and Service Industry Machinery Manufacturing,6.460710059171597,1.7083257516548942,169
+185,Computer Facilities Management Services,6.461983606557378,1.451019520115662,305
+1029,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers",6.4620295434198685,1.652266743747986,1117
+99,Automotive Transmission Repair,6.462710437710437,1.3076139337182822,297
+98,Automotive Parts and Accessories Stores,6.463838174273856,1.5359789106996276,2169
+928,Sporting and Recreational Goods and Supplies Merchant Wholesalers,6.463858987090363,1.4959479245011358,1007
+972,Third Party Administration of Insurance and Pension Funds,6.464329896907216,1.5505650228334074,97
+42,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,6.466949152542374,1.9864569518385966,59
+454,Iron and Steel Mills and Ferroalloy Manufacturing,6.467692307692308,1.2326117900773579,52
+618,Ophthalmic Goods Manufacturing,6.469038461538461,1.3466185095476784,52
+39,All Other Miscellaneous Food Manufacturing,6.469734806629832,1.4010077144290045,543
+992,Travel Trailer and Camper Manufacturing,6.4708695652173915,1.5227623304670739,69
+70,Ambulance Services,6.476314199395773,1.5691112166033663,331
+659,Other Electronic and Precision Equipment Repair and Maintenance,6.476380846325167,1.4235031642571687,449
+885,Service Establishment Equipment and Supplies Merchant Wholesalers,6.476741206030149,1.651454606777737,398
+506,Meat Markets,6.480180412371129,1.426497251557009,776
+449,Investment Advice,6.480655339805812,1.3468525408552043,2266
+526,Metal Window and Door Manufacturing,6.480814814814814,1.5491625334362962,135
+18,All Other Amusement and Recreation Industries,6.48209533898305,1.332771120225265,3304
+292,Environmental Consulting Services,6.486351477449454,1.593009009683127,643
+178,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,6.486361960213483,1.540239588911837,2061
+46,All Other Miscellaneous Waste Management Services,6.489209677419353,1.3729910721555194,372
+620,Optical Goods Stores,6.490864055299541,1.3745882028574186,434
+301,Facilities Support Services,6.492270270270272,1.339280400728086,185
+424,Industrial Building Construction,6.492296178343949,1.5575005038954235,628
+855,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",6.492327586206898,1.4645663436714376,58
+975,Tire Dealers,6.492717391304347,1.4453448611529713,782
+95,Automotive Exhaust System Repair,6.494088000000001,1.5662660859097244,125
+727,"Paint, Varnish, and Supplies Merchant Wholesalers",6.494756097560975,1.3185665857330615,82
+550,Motor Vehicle Transmission and Power Train Parts Manufacturing,6.497692307692309,1.440689670608661,52
+655,Other Direct Selling Establishments,6.498616637579981,1.4698787973530774,1719
+270,Drycleaning and Laundry Services (except Coin-Operated),6.499157037982792,1.4114283005584378,3133
+262,Dried and Dehydrated Food Manufacturing,6.49969696969697,1.6650183364173683,66
+361,Furniture Merchant Wholesalers,6.501447084233258,1.6620156713734164,463
+658,Other Electronic Parts and Equipment Merchant Wholesalers,6.503867669172936,1.5786478822323347,665
+377,Glass Product Manufacturing Made of Purchased Glass,6.504199999999997,1.5203135803347727,150
+106,Beef Cattle Ranching and Farming,6.504929971988792,1.6984599131398357,357
+786,Poured Concrete Foundation and Structure Contractors,6.504990865126263,1.5948843297196578,1861
+575,Nonchocolate Confectionery Manufacturing,6.505779220779221,1.5661016521368274,77
+929,Sports Teams and Clubs,6.5075507246376825,1.550123932283296,138
+378,Glass and Glazing Contractors,6.50786461538461,1.4550709459541373,650
+687,Other Motor Vehicle Parts Manufacturing,6.5091746031746025,1.5540139771796908,126
+414,Household Appliance Stores,6.509783185840709,1.685600862700968,226
+778,Portfolio Management,6.510311418685122,1.4972807203258307,289
+979,Title Abstract and Settlement Offices,6.510500000000003,1.4856447992142383,230
+290,Engineering Services,6.511665832638336,1.6158226874464416,3597
+794,Prefabricated Wood Building Manufacturing,6.512571428571429,1.498651022129023,70
+581,Nonresidential Property Managers,6.513373913043474,1.5175125829478757,460
+393,Hardware Merchant Wholesalers,6.513716417910448,1.5471612967053758,335
+350,Fresh Fruit and Vegetable Merchant Wholesalers,6.514538135593214,1.7041938299405832,472
+812,Racetracks,6.514736842105263,1.7449090288026456,57
+407,Home Furnishing Merchant Wholesalers,6.5172051282051235,1.555601096704585,507
+196,Confectionery and Nut Stores,6.5234400000000035,1.438736134310639,375
+894,Shoe Stores,6.528870165745855,1.488689264372636,724
+803,Professional Employer Organizations,6.529519999999999,1.5790037978258271,125
+954,Surveying and Mapping (except Geophysical) Services,6.530995061728394,1.5536332760375586,405
+224,"Crop Harvesting, Primarily by Machine",6.531621621621621,1.3092913769146606,74
+28,All Other Home Furnishings Stores,6.531750547045949,1.5370455718521867,914
+502,Materials Recovery Facilities,6.534245283018866,1.4513456423721651,159
+351,"Frozen Cakes, Pies, and Other Pastries Manufacturing",6.534927536231883,1.4836992948751295,69
+353,Frozen Specialty Food Manufacturing,6.535856115107913,1.4935459195919372,139
+871,Scheduled Passenger Air Transportation,6.5391379310344835,1.5940759678157044,58
+264,Drinking Places (Alcoholic Beverages),6.540360397047628,1.3868533778556031,3929
+190,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,6.540792056074763,1.672177563667576,428
+202,Consumer Electronics and Appliances Rental,6.542545454545454,1.5268105141244783,187
+946,Support Activities for Forestry,6.542639784946237,1.5153349801202927,186
+779,Postal Service,6.543092783505154,1.3636710264520842,97
+219,Court Reporting and Stenotype Services,6.545727272727273,1.5124341705235267,88
+995,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",6.549589958158998,1.5559403973915176,239
+59,All Other Specialty Trade Contractors,6.552377814845678,1.575328785683033,8393
+667,Other Gasoline Stations,6.552726495726498,1.6590874275505603,234
+559,Musical Instrument and Supplies Stores,6.552966789667891,1.5180041847751442,542
+516,Men's and Boys' Clothing and Furnishings Merchant Wholesalers,6.554425324675325,1.604279981252985,308
+373,Geophysical Surveying and Mapping Services,6.560168067226892,1.5877982747643156,119
+558,Musical Instrument Manufacturing,6.561369863013698,1.5774569153021907,73
+1006,Used Household and Office Goods Moving,6.562657929226733,1.5795383938637497,763
+1011,Vocational Rehabilitation Services,6.562984042553192,1.3862506794472862,188
+606,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",6.563129892037785,1.5485484713773232,2964
+648,Other Computer Related Services,6.5635678496868515,1.503245469283755,2874
+365,General Automotive Repair,6.564637316811593,1.6137500464273222,8393
+843,Residential Mental Health and Substance Abuse Facilities,6.56548888888889,1.4695216760392495,225
+944,Support Activities for Animal Production,6.566468749999994,1.505985927634711,448
+949,Support Activities for Oil and Gas Operations,6.567103296703294,1.5297629475793633,910
+872,School and Employee Bus Transportation,6.568766393442623,1.7491754079436515,244
+664,Other Food Crops Grown Under Cover,6.568857142857143,1.649801518898511,70
+1015,Water Supply and Irrigation Systems,6.569251968503937,1.4611792815334714,254
+358,Full-Service Restaurants,6.570692535628691,1.4817266566726561,21261
+242,"Data Processing, Hosting, and Related Services",6.570906249999994,1.5697130711429057,960
+330,Florists,6.573629889668999,1.5296416169595486,997
+699,Other Residential Care Facilities,6.575313315926891,1.4662602573942474,383
+961,Telemarketing Bureaus and Other Contact Centers,6.575952380952381,1.4576025199411677,84
+1030,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",6.577290322580647,1.793717864883394,155
+927,Sporting and Athletic Goods Manufacturing,6.58042824074074,1.5259712146599982,432
+512,Medical Laboratories,6.581354729729727,1.5085691136766028,592
+902,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",6.586827586206897,1.4736760795392918,116
+970,Textile and Fabric Finishing Mills,6.587068965517241,1.462697590335866,58
+36,All Other Miscellaneous Crop Farming,6.588192307692309,1.8104879463287242,260
+215,Cosmetology and Barber Schools,6.588673611111109,1.3888254723868947,288
+122,"Book, Periodical, and Newspaper Merchant Wholesalers",6.593373493975903,1.7366748976893955,83
+306,Farm Management Services,6.593843137254902,1.5819096860762818,51
+698,Other Professional Equipment and Supplies Merchant Wholesalers,6.594311111111111,1.4986120337758466,225
+922,Specialty (except Psychiatric and Substance Abuse) Hospitals,6.599363636363637,1.5847894049092008,55
+436,Industrial and Personal Service Paper Merchant Wholesalers,6.60022346368715,1.7745462959655387,179
+1007,Used Merchandise Stores,6.606008537886875,1.4725453724278421,937
+1003,Upholstered Household Furniture Manufacturing,6.606949152542373,1.814603395944118,118
+323,Fitness and Recreational Sports Centers,6.60882753557714,1.3575026572064082,8854
+567,New Housing For-Sale Builders,6.609593333333333,1.7559467822142787,150
+514,Medicinal and Botanical Manufacturing,6.612905982905983,1.6218322226192092,117
+209,Cookie and Cracker Manufacturing,6.613727272727274,1.6256176576840398,110
+355,Fruit and Vegetable Canning,6.614783505154639,1.6243112529289927,97
+442,Insurance Agencies and Brokerages,6.614907994806182,1.4661674997622465,5391
+619,Ophthalmic Goods Merchant Wholesalers,6.616369863013699,1.6568161527698682,73
+826,Refrigeration Equipment and Supplies Merchant Wholesalers,6.623766233766234,1.7995240883728991,77
+966,Temporary Help Services,6.624186261558781,1.6075133384361573,757
+735,Passenger Car Rental,6.624696132596685,2.248638981309081,181
+553,"Motorcycle, Bicycle, and Parts Manufacturing",6.626027397260275,1.6806248753538093,146
+789,Power and Communication Line and Related Structures Construction,6.630243298969071,1.6430941918611777,485
+62,All Other Telecommunications,6.633154708520179,1.6112795713067183,446
+44,All Other Miscellaneous Store Retailers (except Tobacco Stores),6.634861647186757,1.5067527252455564,3679
+513,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",6.638505314799662,1.6614272781021162,1223
+635,Other Building Equipment Contractors,6.638766978922715,1.6441277638621854,854
+608,"Offices of Physicians, Mental Health Specialists",6.639532019704437,1.610084890336722,812
+82,Architectural Services,6.639715423606072,1.6689310883476423,1381
+584,Nonupholstered Wood Household Furniture Manufacturing,6.641219512195123,1.6288065421091973,246
+549,Motor Vehicle Towing,6.643928571428564,1.6262322238876188,1120
+743,Pet and Pet Supplies Stores,6.64577630415561,1.4406872543894236,1131
+739,Periodical Publishers,6.649084415584416,1.442979075296419,308
+691,Other Nonscheduled Air Transportation,6.651764705882353,1.4799091754871165,68
+869,"Scenic and Sightseeing Transportation, Water",6.655604651162792,1.6626511193987987,215
+236,Cut and Sew Apparel Contractors,6.6580208333333335,1.8523862156339397,144
+93,Automobile and Other Motor Vehicle Merchant Wholesalers,6.658756410256408,1.7621365194082514,546
+1020,Wholesale Trade Agents and Brokers,6.661995104039161,1.5941503138083366,817
+834,Remediation Services,6.666055276381905,1.4767540106643422,597
+742,Pet Care (except Veterinary) Services,6.669066526610634,1.427609427393878,2856
+120,Book Publishers,6.669392523364488,1.4366357104189218,214
+138,Cable and Other Subscription Programming,6.6703134328358225,1.5131419970715483,67
+736,Payroll Services,6.670933333333336,1.5684632528024043,150
+408,Home Health Care Services,6.671360000000002,1.462646156866805,3550
+370,General Medical and Surgical Hospitals,6.672520467836257,1.6115453210001345,171
+925,Spice and Extract Manufacturing,6.674478260869566,1.7539582848407875,69
+971,Theater Companies and Dinner Theaters,6.675038759689922,1.6729026626789885,129
+338,Food (Health) Supplement Stores,6.676381455399058,1.5278002138920963,852
+410,Home and Garden Equipment Repair and Maintenance,6.677020408163265,1.578636479632883,245
+50,All Other Outpatient Care Centers,6.680732638888884,1.6519812057181196,576
+710,Other Support Activities for Road Transportation,6.68361931818182,1.761865880745185,352
+504,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",6.688601941747572,1.5457815292189987,103
+701,Other Services Related to Advertising,6.690323216995441,1.5386781640864486,659
+29,All Other Information Services,6.691226912928757,1.5228895141092254,379
+983,Tobacco and Tobacco Product Merchant Wholesalers,6.692320261437908,1.7592810308310711,153
+633,Other Automotive Mechanical and Electrical Repair and Maintenance,6.694427662957071,1.6183069384600497,629
+930,Sports and Recreation Instruction,6.696357177615558,1.4878370448313754,2055
+709,Other Support Activities for Air Transportation,6.697308411214954,1.7349703027384415,214
+960,Telecommunications Resellers,6.6989040404040425,1.6197846118279293,198
+964,Teleproduction and Other Postproduction Services,6.699754901960783,1.7308181495248487,204
+772,"Plumbing, Heating, and Air-Conditioning Contractors",6.701554532055961,1.6611041047998465,8142
+545,Motor Vehicle Parts (Used) Merchant Wholesalers,6.70467213114754,1.6651573694901396,122
+415,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",6.705214925373137,1.8720379865616676,335
+590,Office Administrative Services,6.706234597156398,1.6276872228494228,422
+641,Other Clothing Stores,6.706883322764739,1.627116809188347,1577
+694,Other Personal Care Services,6.708600687103643,1.4732430386470814,3784
+326,Flight Training,6.709834586466164,1.4675069571899053,133
+592,Office Furniture (except Wood) Manufacturing,6.713620689655174,1.5722335194125676,58
+652,Other Cut and Sew Apparel Manufacturing,6.714181818181819,1.6383296661780964,110
+65,All Other Travel Arrangement and Reservation Services,6.71468794326241,1.7118235603954706,141
+139,"Cafeterias, Grill Buffets, and Buffets",6.718736263736262,1.554734365296361,182
+72,Amusement Arcades,6.719452954048136,1.5484940075158589,457
+183,Communication Equipment Repair and Maintenance,6.720727272727274,1.6769591905506558,110
+467,Landscape Architectural Services,6.72282954545453,1.6100107462151123,1232
+1017,Welding and Soldering Equipment Manufacturing,6.725333333333332,1.6435945851509588,159
+626,Other Activities Related to Real Estate,6.726410958904098,1.632253980742411,1095
+115,Blind and Shade Manufacturing,6.726724137931035,1.3738464225452829,58
+458,Jewelry Stores,6.727620433017578,1.7460924879129147,1478
+732,Parking Lots and Garages,6.728238095238096,1.7422956757140051,105
+258,Document Preparation Services,6.72842857142857,1.5450022800051029,140
+469,Language Schools,6.733194444444444,1.6518822609109776,72
+148,Caterers,6.734213849287161,1.5524972035667834,1964
+266,Drugs and Druggists' Sundries Merchant Wholesalers,6.734611021069685,1.69629268058022,617
+61,All Other Support Services,6.735139402560446,1.7720257567353679,703
+535,Mortgage and Nonmortgage Loan Brokers,6.735878504672898,1.4974882394940892,214
+468,Landscaping Services,6.737551900846093,1.7162182635510723,8391
+168,Coffee and Tea Manufacturing,6.738394160583936,1.6607936246778812,411
+886,Services for the Elderly and Persons with Disabilities,6.738975770925107,1.4684287019719529,908
+246,Dental Laboratories,6.740924024640656,1.5866564763839892,487
+596,Offices of All Other Miscellaneous Health Practitioners,6.741093106180651,1.5828437170823633,2524
+375,"Gift, Novelty, and Souvenir Stores",6.741183776022967,1.5830292334147813,1393
+670,Other Grocery and Related Products Merchant Wholesalers,6.742275208491274,1.7587942515675252,1319
+1008,Vending Machine Operators,6.7431007751937955,1.4858430146322006,1032
+48,All Other Nondepository Credit Intermediation,6.745053763440859,1.5000961010200198,93
+515,Men's Clothing Stores,6.745617886178863,1.5946496319571126,369
+145,Carpet and Upholstery Cleaning Services,6.746140410958898,1.580227496001564,876
+489,Luggage and Leather Goods Stores,6.747857142857142,1.8316848131319934,70
+34,All Other Miscellaneous Ambulatory Health Care Services,6.748809034907593,1.633973110552538,487
+906,Soft Drink Manufacturing,6.749917355371901,1.632928604209713,121
+881,Security Systems Services (except Locksmiths),6.750701634877384,1.600775035538683,734
+27,All Other Health and Personal Care Stores,6.75132373271889,1.5710920026446744,868
+460,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",6.754351701782815,1.683144928921572,617
+195,Confectionery Merchant Wholesalers,6.75467391304348,1.8171044949438826,184
+171,"Colleges, Universities, and Professional Schools",6.755,1.6773754682653672,66
+636,Other Building Finishing Contractors,6.755165086887827,1.5550216552250486,1266
+20,All Other Automotive Repair and Maintenance,6.755348739495791,1.61286607811435,1190
+89,Audio and Video Equipment Manufacturing,6.7568926553672295,1.5902969115296521,177
+695,Other Personal and Household Goods Repair and Maintenance,6.761379225061824,1.5392825119026192,1213
+711,Other Support Activities for Water Transportation,6.763918918918919,1.5998465830279514,74
+179,Commercial and Institutional Building Construction,6.769176714601816,1.7533274141819877,3616
+137,Business to Business Electronic Markets,6.773076923076924,1.5718058243974706,208
+601,Offices of Lawyers,6.773369058295966,1.6827810399378171,6690
+102,Barber Shops,6.774041525423721,1.6575582906262436,1180
+261,Drafting Services,6.774541666666664,1.6097506195286369,120
+241,Dance Companies,6.775308056872038,1.5939931961620686,211
+724,Packing and Crating,6.777214285714286,1.4564814544416897,140
+904,Snack and Nonalcoholic Beverage Bars,6.782978064162349,1.482718837446089,3647
+91,Automobile Driving Schools,6.785015873015875,1.6620889012637547,189
+840,Research and Development in the Social Sciences and Humanities,6.789925531914894,1.5888035279130184,94
+104,Beauty Salons,6.790203890404437,1.560778185567945,8431
+10,Advertising Agencies,6.796411376811593,1.702082283397935,1380
+1023,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,6.796702334630348,1.7021432627869701,514
+157,Children's and Infants' Clothing Stores,6.799026373626372,1.535028041245054,455
+51,All Other Personal Services,6.799413179916351,1.5735158826999531,3824
+459,Jewelry and Silverware Manufacturing,6.802576271186442,1.7711410026866699,118
+78,Apparel Accessories and Other Apparel Manufacturing,6.803183279742766,1.7343833603023648,311
+121,Book Stores,6.803550151975685,1.6243385590254478,329
+404,"Hobby, Toy, and Game Stores",6.804863523573198,1.5327291191791257,806
+846,Retail Bakeries,6.810614476789923,1.5690021833174175,1271
+712,Other Technical and Trade Schools,6.811111111111114,1.5021235127708534,351
+164,Clothing Accessories Stores,6.813848728246312,1.7207398184102645,747
+249,Diet and Weight Reducing Centers,6.815142857142858,1.5020488331600745,210
+278,Electrical Contractors and Other Wiring Installation Contractors,6.81656267878179,1.7276178366464126,5943
+714,Other Vegetable (except Potato) and Melon Farming,6.817427184466019,1.6492090891230005,103
+897,Siding Contractors,6.817662116040956,1.720773583155131,293
+677,Other Lighting Equipment Manufacturing,6.8266233766233775,1.8469231956145271,77
+366,"General Freight Trucking, Local",6.82891350238124,1.784383202458908,7769
+602,Offices of Mental Health Practitioners (except Physicians),6.83575455333911,1.6336265652858997,1153
+271,Drywall and Insulation Contractors,6.840635559131124,1.822240175601205,1243
+719,Outpatient Mental Health and Substance Abuse Centers,6.8424000000000005,1.6762540247693836,325
+625,Other Activities Related to Credit Intermediation,6.844177215189872,1.56570997051877,79
+11,Advertising Material Distribution Services,6.852556818181816,1.7818108756973194,176
+43,All Other Miscellaneous Schools and Instruction,6.855028446389488,1.569606673007391,1371
+665,"Other Foundation, Structure, and Building Exterior Contractors",6.856615049073061,1.730005117464829,917
+295,Executive Search Services,6.864731182795699,1.4528394921653685,93
+853,Roofing Contractors,6.871140254003304,1.739378845814857,1811
+189,Computer Training,6.878268907563023,1.6522774200595456,119
+888,"Sewing, Needlework, and Piece Goods Stores",6.885674603174603,1.572880750104168,378
+385,Graphic Design Services,6.887672743055544,1.6976166984716363,1152
+214,"Cosmetics, Beauty Supplies, and Perfume Stores",6.890662595419838,1.6470603229113279,1310
+96,Automotive Glass Replacement Shops,6.891296829971181,1.696086379584791,347
+288,Employment Placement Agencies,6.892204979253106,1.665279096351707,1205
+411,Horses and Other Equine Production,6.892340425531916,1.8670852596320564,94
+809,Public Relations Agencies,6.893848797250863,1.8151237151215958,291
+425,Industrial Design Services,6.893945578231292,1.778346375888124,147
+302,Family Clothing Stores,6.896834532374096,1.7049397785181506,695
+806,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",6.897232142857145,1.5938561907297009,448
+297,Exterminating and Pest Control Services,6.899561091340446,1.6567005269839872,843
+161,Claims Adjusting,6.902421874999998,1.7798839854671547,128
+867,"Scenic and Sightseeing Transportation, Land",6.905468749999998,1.8907332491623954,128
+920,"Specialized Freight (except Used Goods) Trucking, Local",6.9062462159434785,1.7512812855921616,1982
+191,Computer and Office Machine Repair and Maintenance,6.906712328767121,1.52570168794965,511
+349,Freight Transportation Arrangement,6.910581272084801,1.7391311111249075,1132
+679,Other Marine Fishing,6.910588235294117,1.6601643433885764,51
+232,Custom Computer Programming Services,6.911445648807715,1.7255095434523193,3229
+1022,Window Treatment Stores,6.913827586206896,1.3866339859534222,290
+318,Finfish Fishing,6.916875,1.5988436312557917,112
+294,Exam Preparation and Tutoring,6.917646536412076,1.4697390081457942,563
+22,All Other Business Support Services,6.920452149791944,1.6977982550117852,721
+123,Books Printing,6.9290987654321,1.5408350950453644,81
+328,Flooring Contractors,6.9309499105545465,1.750936175401503,1677
+56,All Other Publishers,6.932655367231638,1.6334504959131366,177
+187,Computer Systems Design Services,6.932864684263303,1.7237251000824128,2993
+201,Consumer Electronics Repair and Maintenance,6.933125000000004,1.5912024614388247,264
+1027,Women's Clothing Stores,6.935750703432736,1.7147158227513093,1777
+707,Other Specialized Design Services,6.936833887043185,1.6636023896341672,602
+702,Other Services to Buildings and Dwellings,6.9390537037037,1.7005149011905079,1620
+958,Tax Preparation Services,6.941501388888876,1.6318989731325055,1440
+919,Special Needs Transportation,6.9514588859416415,1.8956682827783282,377
+501,Masonry Contractors,6.9531471365638655,1.7984394936640322,1135
+448,Investigation Services,6.954576576576577,1.7559728275325255,222
+847,Reupholstery and Furniture Repair,6.956167400881057,1.7454570180733309,227
+511,Media Representatives,6.958717948717949,1.5518844810469865,156
+260,"Doll, Toy, and Game Manufacturing",6.965535714285715,1.808523283560781,112
+808,Psychiatric and Substance Abuse Hospitals,6.979607843137256,1.698115379807054,51
+321,Fish and Seafood Markets,6.979821989528795,1.721994895688449,191
+984,Toilet Preparation Manufacturing,6.9800609756097565,1.8543110098935776,164
+973,Tile and Terrazzo Contractors,6.982110939907546,1.8208738058101905,649
+487,Locksmiths,6.982379421221865,1.5386842297238743,311
+396,Hay Farming,6.984918032786884,1.7997774148959085,61
+175,Commercial Photography,6.989989304812832,1.7557406310227555,374
+982,Tobacco Stores,6.991189279731982,1.7829880741335122,597
+367,"General Freight Trucking, Long-Distance, Less Than Truckload",6.994053784860556,1.8893343754695608,502
+198,Construction Sand and Gravel Mining,6.995443037974682,1.7642686672041652,316
+708,Other Spectator Sports,7.002079207920794,1.6362868433326008,101
+84,Art Dealers,7.004948126801153,1.7102594123164472,347
+624,Other Accounting Services,7.01702523474177,1.7492754379425615,1704
+969,Textile Bag and Canvas Mills,7.0200000000000005,2.088099982869963,53
+610,Offices of Real Estate Agents and Brokers,7.020743474347419,1.7877449008759607,2222
+716,Other Waste Collection,7.021891891891892,1.722998496691956,333
+915,Sound Recording Studios,7.0233442622950815,1.8571350133351532,183
+700,Other Scientific and Technical Consulting Services,7.025434662998615,1.8299368695448492,1454
+486,Local Messengers and Local Delivery,7.029925373134319,1.5431721165626036,536
+63,All Other Transit and Ground Passenger Transportation,7.033625570776253,1.953529755286789,438
+457,Janitorial Services,7.036869109947676,1.7083341512137658,3247
+844,Residential Property Managers,7.04188586956521,1.6981583474459963,1104
+218,Couriers and Express Delivery Services,7.057981798715194,1.568264642169309,934
+347,Framing Contractors,7.067940446650114,1.8935475606923045,403
+316,Fine Arts Schools,7.079344726562495,1.5971061933620407,1024
+283,Electronics Stores,7.098794771241815,1.8644158345608148,765
+921,"Specialized Freight (except Used Goods) Trucking, Long-Distance",7.104978152929483,1.9080510268837705,1007
+805,Professional and Management Development Training,7.109569948186531,1.695792114350854,386
+693,Other Performing Arts Companies,7.117676470588235,1.6317633610819915,102
+30,All Other Insurance Related Activities,7.126666666666665,1.6350555962171704,246
+686,Other Motion Picture and Video Industries,7.126929824561402,1.6239742179352956,114
+443,Interior Design Services,7.127715695067256,1.7875404355385134,1115
+611,Offices of Real Estate Appraisers,7.1348098859315625,1.6531371293086496,263
+19,All Other Animal Production,7.138461538461536,1.9159534458951781,91
+466,Land Subdivision,7.145283018867925,1.630767402852441,53
+804,Professional Organizations,7.148076923076923,1.9257023556599475,52
+319,Finish Carpentry Contractors,7.1556792207792075,1.7983382350812298,1540
+880,Security Guards and Patrol Services,7.1696626297577835,1.770536817621289,578
+304,Farm Labor Contractors and Crew Leaders,7.1707017543859655,1.9062396225938827,57
+417,Human Resources Consulting Services,7.175988764044942,1.8263299886249873,445
+206,Convention and Trade Show Organizers,7.176450216450219,1.9666054832778856,231
+989,Translation and Interpretation Services,7.181590163934426,1.8512016267764144,183
+273,Educational Support Services,7.188177704194262,1.6915240871613693,906
+252,Direct Life Insurance Carriers,7.189146341463413,1.7855138633171015,82
+757,"Photography Studios, Portrait",7.208253697383382,1.6879335921233833,879
+482,Limousine Service,7.212842424242407,1.9238250605211653,825
+987,Tour Operators,7.220212355212356,1.8432863865369624,259
+907,Software Publishers,7.221530734632684,1.741194404750672,667
+135,Business Associations,7.235166666666668,1.7325532169943625,60
+1005,Used Car Dealers,7.237970521541947,1.9469527347858169,2205
+959,Taxi Service,7.238969230769228,2.0422516771031374,325
+568,New Multifamily Housing Construction (except For-Sale Builders),7.2517999999999985,1.6145461049220906,310
+728,Painting and Wall Covering Contractors,7.254239111498248,1.8045735109184131,2296
+533,Mobile Food Services,7.256571752265845,1.755552276221183,1324
+9,Administrative Management and General Management Consulting Services,7.275925978145958,1.79488173511178,2837
+446,Internet Publishing and Broadcasting and Web Search Portals,7.281297619047618,1.614702220352789,336
+80,Appliance Repair and Maintenance,7.284941326530609,1.703546291832314,392
+560,Nail Salons,7.297487394957974,1.7516250990129452,1904
+538,Motion Picture and Video Production,7.304659400544953,1.7970298604478148,1101
+569,New Single-Family Housing Construction (except For-Sale Builders),7.318733434190706,1.8300852450867844,3305
+12,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",7.319284360189576,1.8038781277310871,211
+678,Other Management Consulting Services,7.330170212765942,1.8056128182163937,1692
+673,Other Individual and Family Services,7.333709401709396,1.9111777596829302,585
+132,Building Inspection Services,7.336886889460151,1.654823448881132,389
+802,"Process, Physical Distribution, and Logistics Consulting Services",7.3671746794871735,1.810840305796678,624
+32,All Other Legal Services,7.415742296918762,1.7398168639024698,357
+807,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",7.431164948453604,1.8385111501450002,388
+499,Marketing Consulting Services,7.440865808059823,1.7405292828319996,2407
+991,Travel Agencies,7.440901442307688,1.8325225585548386,416
+423,"Independent Artists, Writers, and Performers",7.445668604651161,1.7728729702788724,860
+343,Footwear and Leather Goods Repair,7.459718309859157,1.9205274363577356,71
+23,All Other Consumer Goods Rental,7.461565217391303,1.8444694912203659,115
+845,Residential Remodelers,7.465988812845383,1.8846655474173235,7598
+821,Recreational Goods Rental,7.564436781609196,1.8820912521506705,87
+25,All Other General Merchandise Stores,7.585496183206105,1.6929292836975514,131
+1026,Wireless Telecommunications Carriers (except Satellite),7.602,1.4700512321004324,65
+60,All Other Support Activities for Transportation,7.609307531380744,1.8679989583991945,478
+557,Musical Groups and Artists,7.878714285714286,1.6635477572951267,140
+282,Electronic Shopping and Mail-Order Houses,8.749448000000102,1.8594409542405625,3375
